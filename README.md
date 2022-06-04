@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ I code in Lua, Python, Javascript, C#, Golang & Vlang.
 
 <!--
 **tacolift/tacolift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
